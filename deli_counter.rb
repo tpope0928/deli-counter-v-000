@@ -5,7 +5,8 @@ end
 
 def take_a_number(katz_deli, name)
   katz_deli << name
-  if 
+  if katz_deli.length == 0
+    puts 
 end
 
 def now_serving
