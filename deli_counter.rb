@@ -10,4 +10,5 @@ end
    
 
 def now_serving
+  if katz_deli
 end
